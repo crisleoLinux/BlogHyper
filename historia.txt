@@ -3,3 +3,5 @@ Hola mundo
 curso git de platzi
 
 pd: freddy es el puto amo
+
+el perro es ceo de platzi
