@@ -1,0 +1,1000 @@
+    7  pwd
+    8  cd ..
+    9  cd ...
+   10  cd ~
+   11  cd ..
+   12  cd .
+   13  cd ~/programación
+   14  cd ~documents/programación
+   15  cd ~/documents/programación
+   16  1-php
+   17  more 1-streams.php
+   18  more 1.php
+   19  ls
+   20  less 1.php
+   21  php 1.php
+   22  php5 nombre_1.php
+   23  php -a
+   24  php -f 1.php
+   25  clear
+   26  alias php='c:/documents/programación/php.exe
+   27  1
+   28  2
+   29  php
+   30  php
+   31  php 1.php
+   32  pwd
+   33  cd documents/programación
+   34  php 1.php
+   35  pwd
+   36  cd documents/programación/express/platzi/proyecto1
+   37  git init
+   38  cd ~
+   39  cd documents/proyecto1
+   40  git init
+   41  ls -al
+   42  code
+   43  git status
+   44  git add hola mundo.txt
+   45  clear
+   46  git add Hola mundo.txt
+   47  git status
+   48  git status
+   49  git add 1.txt
+   50  git add 1.txt
+   51  git status
+   52  git rm 1.txt
+   53  git status
+   54  gitstatus
+   55  git status
+   56  git add historia.txt
+   57  gid rm historia.txt
+   58  git rm --cached historia.txt
+   59  git status
+   60  git add historia.txt
+   61  git status
+   62  git commit - "este es el primer commit"
+   63  git config
+   64  git confing --list
+   65  git commit -m "hola"
+   66  clear
+   67  git config
+   68  git config --list
+   69  git config --list --show-origin
+   70  git config --global user.name "Crisleo"
+   71  git config --global user.email "crisleoco14@gmail.com"
+   72  git config --list
+   73  git status
+   74  git commit -m "este es el primer commit de este archivo"
+   75  git add historia.txt
+   76  git add historia.txt
+   77  cat historia.txt
+   78  git status
+   79  git commit -m "cambio"
+   80  git add historia.txt
+   81  git add.
+   82  git add .
+   83  pwd
+   84  git add .
+   85  git status
+   86  git commit "hol"
+   87  git log historia.txt
+   88  clear
+   89  git init
+   90  ls -al
+   91  pwd
+   92  cd programación/proyecto1
+   93  git init
+   94  ls -al
+   95  ls -lh
+   96  code
+   97  git status
+   98  git add historia.txt
+   99  git status
+  100  gi rm historia.txt
+  101  git rm historia.txt
+  102  git status
+  103  git rm --cached historia.txt
+  104  git status
+  105  git add historia.txt
+  106  git status
+  107  git commit -m "Este es el primer commit de este archivo"
+  108  git cat historia.txt
+  109  cat historia.txt
+  110  git config --global user.name "Cristian Castañeda"
+  111  git status
+  112  git status
+  113  git commit -m "Cambio sobre freedy"
+  114  git add .
+  115  git status
+  116  git log
+  117  git commit -m "Cambio sobre freedy"
+  118  git log
+  119  git show
+  120  git show historia.txt
+  121  ls
+  122  code historia.txt
+  123  git add .
+  124  git commit
+  125  git add .
+  126  git commit
+  127  git show
+  128  git log historia.txt
+  129  git diff
+  130  git log historia.txt
+  131  git git gofa
+  132  git  diff 
+  133  pwd
+  134  cd programación/proyecto1
+  135  git show
+  136  git log history.txt
+  137  git log historia.txt
+  138  itgiytqqqq
+  139  q
+  140  git diff
+  141  pwd
+  142  clear
+  143  reset
+  144  git log historia.txt
+  145  f
+  146  f
+  147  reset
+  148  git log historia.txt
+  149  git diff 743375f95afecbff134dd14dae6fb8681b4e7ea4 
+  150  git diff 743375f95afecbff134dd14dae6fb8681b4e7ea4 
+  151  git diff 743375f95afecbff134dd14dae6fb8681b4e7ea4 1375c021f534b66144518125d2e5a55dee8707ec
+  152  git diff 1375c021f534b66144518125d2e5a55dee8707ec 743375f95afecbff134dd14dae6fb8681b4e7ea4
+  153  git log historia.txt
+  154  git log
+  155  git reset 
+  156  git reset 
+  157  git reset 4d5682e4ee061ea6749a2d83cf9e29d564005dac
+  158  git reset 4d5682e4ee061ea6749a2d83cf9e29d564005dac --hard
+  159  git log
+  160  git ls
+  161  ls
+  162  ls -ha
+  163  lg -la
+  164  ls -la
+  165  cat blog.html
+  166  git status
+  167  ls -al
+  168  git add .
+  169  git status
+  170  git status
+  171  git diff
+  172  git add .
+  173  git status
+  174  git commot -m "Inicio el proyecto real"
+  175  git commit -m "Inicio el proyecto real"
+  176  git status
+  177  git log
+  178  git add .
+  179  git commit -m "Más sobre freddy"
+  180  git log 
+  181  git log --stat
+  182  git log
+  183  git checkout 1375c021f534b66144518125d2e5a55dee8707ec historia.txt
+  184  git status
+  185  git checkout main historia.txt
+  186  git checkout 1375c021f534b66144518125d2e5a55dee8707ec historia.txt
+  187  git add .
+  188  git commit -m "Remplazo sobre la historia"
+  189  git log --stat
+  190  git log
+  191  code
+  192  code
+  193  pwd
+  194  cd programación/express/cursosJS/8.JSM-objetos
+  195  cd programación
+  196  cd express
+  197  cd cursoJS
+  198  cd 8.JSM-objetos
+  199  git state
+  200  date
+  201  ls /usr/bin | wc -l
+  202  histoty
+  203  history
+  204  git status
+  205  git init
+  206  git status
+  207  git add .
+  208  git status
+  209  git status
+  210  git add 1.js
+  211  git status
+  212  git log
+  213  git commit
+  214  cd programación/express
+  215  cd cursoJS/8.JSM-objetos
+  216  git commit
+  217  commit
+  218  git commit
+  219  git show
+  220  git log
+  221  git checkout f877dbd9a4d4758a3dfb859470056a30edde7ce2
+  222  clear
+  223  git add .
+  224  git status
+  225  git restore --staged .
+  226  git status
+  227  git init
+  228  git log
+  229  git add .
+  230  git status
+  231  git commit -m "Siguiente parte"
+  232  git status
+  233  git log
+  234  git checkout f877dbd9a4d4758a3dfb859470056a30edde7ce2
+  235  git diff f877dbd9a4d4758a3dfb859470056a30edde7ce2 88cdbb0bf5eaf143a118e20d817dccbb3ff26979
+  236  git checkout 88cdbb0bf5eaf143a118e20d817dccbb3ff26979
+  237  git status
+  238  git status
+  239  git add -
+  240  git add .
+  241  git commit -m "solucion error"
+  242  code
+  243  code
+  244  cd programación/express
+  245  cd cursoJS/8.M-objetos
+  246  cd ~
+  247  cd ..
+  248  cd .
+  249  cd ...
+  250  cd programación/express
+  251  cd *
+  252  cd ~
+  253  bwd
+  254  pwd
+  255  cd programación/proyecto1
+  256  code
+  257  cd ~
+  258  cd programación/express/cursoJS/8.M-copia
+  259  git log
+  260  git reset --hard
+  261  git status
+  262  git reset --hard
+  263  git log
+  264  rename
+  265  code
+  266  cd programación/express/cursoJS/8.M-objetos
+  267  git add .
+  268  git commit -m "nuevo avance"
+  269  git status
+  270  git lof
+  271  git log
+  272  clear
+  273  cd ~
+  274  cd programación/proyecto1
+  275  git status
+  276  git commit -a
+  277  git log
+  278  git log --stat
+  279  git status
+  280  git show
+  281  git branch cabecera
+  282  git show
+  283  q
+  284  git checkout cabecera
+  285  git status
+  286  git add blog.html
+  287  git commit
+  288  git status
+  289  git show
+  290  git lof
+  291  git log
+  292  git checkout main
+  293  git log
+  294  git checkout cabecera
+  295  ls /usr/bin | wc -l
+  296  history
+  297  git log --stat
+  298  code
+  299  cd programación/proyecto1
+  300  status
+  301  git status
+  302  status
+  303  git status
+  304  gi commit -am "Finalizada la cabecera"
+  305  git status
+  306  git commit -am "Finalizada la cabecera"
+  307  git status
+  308  git checkout main
+  309  git commit -am "Agregado el contenido adicional"
+  310  git status
+  311  git log
+  312  git checkout cabecera
+  313  git checkout main
+  314  git branch
+  315  git merge cabecera
+  316  git log
+  317  git commit -am "Volvi a una letra menos pior"
+  318  history
+  319  git merge cabecera -v
+  320  cd ..
+  321  cd express/cursoJS/8.M-objetos
+  322  git branch
+  323  git status
+  324  git checkout main
+  325  git branch
+  326  git log
+  327  git show
+  328  git status
+  329  git branch
+  330  git status
+  331  history
+  332  clear
+  333  git branch "ref"
+  334  git branch
+  335  git checkout ref
+  336  git status
+  337  git commit -a
+  338  git cat 1.js
+  339  cat 1.js
+  340  git show
+  341  git status
+  342  git status
+  343  git commit 1.js 
+  344  git checkout main
+  345  git merge "ref"
+  346  git status
+  347  git branch
+  348  git log
+  349  git checkout ref
+  350  git checkout 5b0d95a78bedc56c8db53678ba5bd503bed3514a
+  351  git branch
+  352  git checkout main
+  353  cd programación
+  354  php 1.php
+  355  alias php='C:/xampp/php/php.exe'
+  356  php 1.php
+  357  php 1.php
+  358  code
+  359  more 1.php
+  360  less 1.php
+  361  cat 1.php
+  362  php 1.php
+  363  php 1.php > std_out
+  364  php 1.php 1> salida 2> error 
+  365  php 1.php >> salida
+  366  php 1.php >> salida2
+  367  php 1.php >> salida
+  368  php 1.php > todo.log 2>&1
+  369  mysql -u root -p
+  370  history
+  371  cd programación
+  372  tail -f error
+  373  rm salida2
+  374  ls -l
+  375  rm std_out
+  376  ls -lh
+  377  ls -lh
+  378  tail -f salida
+  379  ls -l
+  380  touch todo.log
+  381  ls -l
+  382  ls -lh
+  383  tail -f todo.log
+  384  cd programación
+  385  ls -l
+  386  more std_out
+  387  less std_out
+  388  tail  -f std_out
+  389  tail -f salida
+  390  tail -15
+  391  tail -15 salida
+  392  tail -15 salida
+  393  tail -f error
+  394  cd programación
+  395  rm error
+  396  rm salida
+  397  rm todo.log
+  398  cd proecto1
+  399  cd proyecto1
+  400  status
+  401  git status
+  402  git checkout cabecera
+  403  git branch
+  404  git merge main
+  405  git commit -am "Modifique la cabecera y el color"
+  406  git checkout maian
+  407  git checkout main
+  408  git commit -am "Agregue suscripcion, azul y cambio en cabecera"
+  409  git checkout cabecera
+  410  git checkout main
+  411  git merge cabecera
+  412  git log
+  413  git status
+  414  git commit -am "arregle el conflicto"
+  415  git status
+  416  git checkout cabecera
+  417  git checkout main
+  418  CODE
+  419  history
+  420  cd programación/cursoJS/8.M-objetos
+  421  cd programación/cursoJS
+  422  pwd
+  423  cd programación/
+  424  cd CursoJS
+  425  cd express/cursojs/8.M-objetos
+  426  git status
+  427  git commit -am "Metodos"
+  428  git show
+  429  git log
+  430  git branch
+  431  git branch -D
+  432  git branch -D ref
+  433  git branch
+  434  git branch nuevaRama
+  435  git branch
+  436  tail -4 1.js
+  437  history
+  438  git status
+  439  git commit -a
+  440  git show
+  441  history
+  442  cd progrmación
+  443  cd programación
+  444  php 1.php &
+  445  fg
+  446  php 1.php fg
+  447  ps
+  448  ps ax
+  449  php 1.php 
+  450  ls
+  451  php 1.php
+  452  alias php='C:/xampp/php/php.exe'
+  453  php 1.php
+  454  php 1.php &
+  455  1
+  456  php 1.php
+  457  cd express/cursoJS
+  458  ls
+  459  cd 1. fundamentos
+  460  cd 3.Sentencias y bucles
+  461  cd 3.Sentenciasybucles
+  462  cd 4.Funciones
+  463  ls
+  464  1.js
+  465  js
+  466  node 1.js
+  467  node 1.js &
+  468  code
+  469  cd ..
+  470  cd ..
+  471  cd..
+  472  cd ..
+  473  node 1.js
+  474  node 1.js
+  475  node 1.js &
+  476  ps
+  477  node 1.js &
+  478  ps ax
+  479  node 1.js 
+  480  node 1.js 
+  481  node 1.js &
+  482  ps ax
+  483  node 1.js &
+  484  node 1.js fg
+  485  node 1.js &
+  486  top
+  487  top
+  488  kill -9 936
+  489  kill -9 1000
+  490  ps -ax
+  491  ps
+  492  fg
+  493  kill all
+  494  kill all -9 'node 1.js'
+  495  killall -9 'node 1.js'
+  496  code
+  497  cd 
+  498  cd programación/proyecto1
+  499  git log
+  500  reset 1375c021f534b66144518125d2e5a55dee8707ec --soft
+  501  reset 1375c021f534b66144518125d2e5a55dee8707ec --hard
+  502  git reset 1375c021f534b66144518125d2e5a55dee8707ec --soft
+  503  git reset 1375c021f534b66144518125d2e5a55dee8707ec --hard
+  504  git log
+  505  history
+  506  history >> historial.txt | grep git hisotrial.txt
+    8  cd ..
+    9  cd ...
+   10  cd ~
+   11  cd ..
+   12  cd .
+   13  cd ~/programación
+   14  cd ~documents/programación
+   15  cd ~/documents/programación
+   16  1-php
+   17  more 1-streams.php
+   18  more 1.php
+   19  ls
+   20  less 1.php
+   21  php 1.php
+   22  php5 nombre_1.php
+   23  php -a
+   24  php -f 1.php
+   25  clear
+   26  alias php='c:/documents/programación/php.exe
+   27  1
+   28  2
+   29  php
+   30  php
+   31  php 1.php
+   32  pwd
+   33  cd documents/programación
+   34  php 1.php
+   35  pwd
+   36  cd documents/programación/express/platzi/proyecto1
+   37  git init
+   38  cd ~
+   39  cd documents/proyecto1
+   40  git init
+   41  ls -al
+   42  code
+   43  git status
+   44  git add hola mundo.txt
+   45  clear
+   46  git add Hola mundo.txt
+   47  git status
+   48  git status
+   49  git add 1.txt
+   50  git add 1.txt
+   51  git status
+   52  git rm 1.txt
+   53  git status
+   54  gitstatus
+   55  git status
+   56  git add historia.txt
+   57  gid rm historia.txt
+   58  git rm --cached historia.txt
+   59  git status
+   60  git add historia.txt
+   61  git status
+   62  git commit - "este es el primer commit"
+   63  git config
+   64  git confing --list
+   65  git commit -m "hola"
+   66  clear
+   67  git config
+   68  git config --list
+   69  git config --list --show-origin
+   70  git config --global user.name "Crisleo"
+   71  git config --global user.email "crisleoco14@gmail.com"
+   72  git config --list
+   73  git status
+   74  git commit -m "este es el primer commit de este archivo"
+   75  git add historia.txt
+   76  git add historia.txt
+   77  cat historia.txt
+   78  git status
+   79  git commit -m "cambio"
+   80  git add historia.txt
+   81  git add.
+   82  git add .
+   83  pwd
+   84  git add .
+   85  git status
+   86  git commit "hol"
+   87  git log historia.txt
+   88  clear
+   89  git init
+   90  ls -al
+   91  pwd
+   92  cd programación/proyecto1
+   93  git init
+   94  ls -al
+   95  ls -lh
+   96  code
+   97  git status
+   98  git add historia.txt
+   99  git status
+  100  gi rm historia.txt
+  101  git rm historia.txt
+  102  git status
+  103  git rm --cached historia.txt
+  104  git status
+  105  git add historia.txt
+  106  git status
+  107  git commit -m "Este es el primer commit de este archivo"
+  108  git cat historia.txt
+  109  cat historia.txt
+  110  git config --global user.name "Cristian Castañeda"
+  111  git status
+  112  git status
+  113  git commit -m "Cambio sobre freedy"
+  114  git add .
+  115  git status
+  116  git log
+  117  git commit -m "Cambio sobre freedy"
+  118  git log
+  119  git show
+  120  git show historia.txt
+  121  ls
+  122  code historia.txt
+  123  git add .
+  124  git commit
+  125  git add .
+  126  git commit
+  127  git show
+  128  git log historia.txt
+  129  git diff
+  130  git log historia.txt
+  131  git git gofa
+  132  git  diff 
+  133  pwd
+  134  cd programación/proyecto1
+  135  git show
+  136  git log history.txt
+  137  git log historia.txt
+  138  itgiytqqqq
+  139  q
+  140  git diff
+  141  pwd
+  142  clear
+  143  reset
+  144  git log historia.txt
+  145  f
+  146  f
+  147  reset
+  148  git log historia.txt
+  149  git diff 743375f95afecbff134dd14dae6fb8681b4e7ea4 
+  150  git diff 743375f95afecbff134dd14dae6fb8681b4e7ea4 
+  151  git diff 743375f95afecbff134dd14dae6fb8681b4e7ea4 1375c021f534b66144518125d2e5a55dee8707ec
+  152  git diff 1375c021f534b66144518125d2e5a55dee8707ec 743375f95afecbff134dd14dae6fb8681b4e7ea4
+  153  git log historia.txt
+  154  git log
+  155  git reset 
+  156  git reset 
+  157  git reset 4d5682e4ee061ea6749a2d83cf9e29d564005dac
+  158  git reset 4d5682e4ee061ea6749a2d83cf9e29d564005dac --hard
+  159  git log
+  160  git ls
+  161  ls
+  162  ls -ha
+  163  lg -la
+  164  ls -la
+  165  cat blog.html
+  166  git status
+  167  ls -al
+  168  git add .
+  169  git status
+  170  git status
+  171  git diff
+  172  git add .
+  173  git status
+  174  git commot -m "Inicio el proyecto real"
+  175  git commit -m "Inicio el proyecto real"
+  176  git status
+  177  git log
+  178  git add .
+  179  git commit -m "Más sobre freddy"
+  180  git log 
+  181  git log --stat
+  182  git log
+  183  git checkout 1375c021f534b66144518125d2e5a55dee8707ec historia.txt
+  184  git status
+  185  git checkout main historia.txt
+  186  git checkout 1375c021f534b66144518125d2e5a55dee8707ec historia.txt
+  187  git add .
+  188  git commit -m "Remplazo sobre la historia"
+  189  git log --stat
+  190  git log
+  191  code
+  192  code
+  193  pwd
+  194  cd programación/express/cursosJS/8.JSM-objetos
+  195  cd programación
+  196  cd express
+  197  cd cursoJS
+  198  cd 8.JSM-objetos
+  199  git state
+  200  date
+  201  ls /usr/bin | wc -l
+  202  histoty
+  203  history
+  204  git status
+  205  git init
+  206  git status
+  207  git add .
+  208  git status
+  209  git status
+  210  git add 1.js
+  211  git status
+  212  git log
+  213  git commit
+  214  cd programación/express
+  215  cd cursoJS/8.JSM-objetos
+  216  git commit
+  217  commit
+  218  git commit
+  219  git show
+  220  git log
+  221  git checkout f877dbd9a4d4758a3dfb859470056a30edde7ce2
+  222  clear
+  223  git add .
+  224  git status
+  225  git restore --staged .
+  226  git status
+  227  git init
+  228  git log
+  229  git add .
+  230  git status
+  231  git commit -m "Siguiente parte"
+  232  git status
+  233  git log
+  234  git checkout f877dbd9a4d4758a3dfb859470056a30edde7ce2
+  235  git diff f877dbd9a4d4758a3dfb859470056a30edde7ce2 88cdbb0bf5eaf143a118e20d817dccbb3ff26979
+  236  git checkout 88cdbb0bf5eaf143a118e20d817dccbb3ff26979
+  237  git status
+  238  git status
+  239  git add -
+  240  git add .
+  241  git commit -m "solucion error"
+  242  code
+  243  code
+  244  cd programación/express
+  245  cd cursoJS/8.M-objetos
+  246  cd ~
+  247  cd ..
+  248  cd .
+  249  cd ...
+  250  cd programación/express
+  251  cd *
+  252  cd ~
+  253  bwd
+  254  pwd
+  255  cd programación/proyecto1
+  256  code
+  257  cd ~
+  258  cd programación/express/cursoJS/8.M-copia
+  259  git log
+  260  git reset --hard
+  261  git status
+  262  git reset --hard
+  263  git log
+  264  rename
+  265  code
+  266  cd programación/express/cursoJS/8.M-objetos
+  267  git add .
+  268  git commit -m "nuevo avance"
+  269  git status
+  270  git lof
+  271  git log
+  272  clear
+  273  cd ~
+  274  cd programación/proyecto1
+  275  git status
+  276  git commit -a
+  277  git log
+  278  git log --stat
+  279  git status
+  280  git show
+  281  git branch cabecera
+  282  git show
+  283  q
+  284  git checkout cabecera
+  285  git status
+  286  git add blog.html
+  287  git commit
+  288  git status
+  289  git show
+  290  git lof
+  291  git log
+  292  git checkout main
+  293  git log
+  294  git checkout cabecera
+  295  ls /usr/bin | wc -l
+  296  history
+  297  git log --stat
+  298  code
+  299  cd programación/proyecto1
+  300  status
+  301  git status
+  302  status
+  303  git status
+  304  gi commit -am "Finalizada la cabecera"
+  305  git status
+  306  git commit -am "Finalizada la cabecera"
+  307  git status
+  308  git checkout main
+  309  git commit -am "Agregado el contenido adicional"
+  310  git status
+  311  git log
+  312  git checkout cabecera
+  313  git checkout main
+  314  git branch
+  315  git merge cabecera
+  316  git log
+  317  git commit -am "Volvi a una letra menos pior"
+  318  history
+  319  git merge cabecera -v
+  320  cd ..
+  321  cd express/cursoJS/8.M-objetos
+  322  git branch
+  323  git status
+  324  git checkout main
+  325  git branch
+  326  git log
+  327  git show
+  328  git status
+  329  git branch
+  330  git status
+  331  history
+  332  clear
+  333  git branch "ref"
+  334  git branch
+  335  git checkout ref
+  336  git status
+  337  git commit -a
+  338  git cat 1.js
+  339  cat 1.js
+  340  git show
+  341  git status
+  342  git status
+  343  git commit 1.js 
+  344  git checkout main
+  345  git merge "ref"
+  346  git status
+  347  git branch
+  348  git log
+  349  git checkout ref
+  350  git checkout 5b0d95a78bedc56c8db53678ba5bd503bed3514a
+  351  git branch
+  352  git checkout main
+  353  cd programación
+  354  php 1.php
+  355  alias php='C:/xampp/php/php.exe'
+  356  php 1.php
+  357  php 1.php
+  358  code
+  359  more 1.php
+  360  less 1.php
+  361  cat 1.php
+  362  php 1.php
+  363  php 1.php > std_out
+  364  php 1.php 1> salida 2> error 
+  365  php 1.php >> salida
+  366  php 1.php >> salida2
+  367  php 1.php >> salida
+  368  php 1.php > todo.log 2>&1
+  369  mysql -u root -p
+  370  history
+  371  cd programación
+  372  tail -f error
+  373  rm salida2
+  374  ls -l
+  375  rm std_out
+  376  ls -lh
+  377  ls -lh
+  378  tail -f salida
+  379  ls -l
+  380  touch todo.log
+  381  ls -l
+  382  ls -lh
+  383  tail -f todo.log
+  384  cd programación
+  385  ls -l
+  386  more std_out
+  387  less std_out
+  388  tail  -f std_out
+  389  tail -f salida
+  390  tail -15
+  391  tail -15 salida
+  392  tail -15 salida
+  393  tail -f error
+  394  cd programación
+  395  rm error
+  396  rm salida
+  397  rm todo.log
+  398  cd proecto1
+  399  cd proyecto1
+  400  status
+  401  git status
+  402  git checkout cabecera
+  403  git branch
+  404  git merge main
+  405  git commit -am "Modifique la cabecera y el color"
+  406  git checkout maian
+  407  git checkout main
+  408  git commit -am "Agregue suscripcion, azul y cambio en cabecera"
+  409  git checkout cabecera
+  410  git checkout main
+  411  git merge cabecera
+  412  git log
+  413  git status
+  414  git commit -am "arregle el conflicto"
+  415  git status
+  416  git checkout cabecera
+  417  git checkout main
+  418  CODE
+  419  history
+  420  cd programación/cursoJS/8.M-objetos
+  421  cd programación/cursoJS
+  422  pwd
+  423  cd programación/
+  424  cd CursoJS
+  425  cd express/cursojs/8.M-objetos
+  426  git status
+  427  git commit -am "Metodos"
+  428  git show
+  429  git log
+  430  git branch
+  431  git branch -D
+  432  git branch -D ref
+  433  git branch
+  434  git branch nuevaRama
+  435  git branch
+  436  tail -4 1.js
+  437  history
+  438  git status
+  439  git commit -a
+  440  git show
+  441  history
+  442  cd progrmación
+  443  cd programación
+  444  php 1.php &
+  445  fg
+  446  php 1.php fg
+  447  ps
+  448  ps ax
+  449  php 1.php 
+  450  ls
+  451  php 1.php
+  452  alias php='C:/xampp/php/php.exe'
+  453  php 1.php
+  454  php 1.php &
+  455  1
+  456  php 1.php
+  457  cd express/cursoJS
+  458  ls
+  459  cd 1. fundamentos
+  460  cd 3.Sentencias y bucles
+  461  cd 3.Sentenciasybucles
+  462  cd 4.Funciones
+  463  ls
+  464  1.js
+  465  js
+  466  node 1.js
+  467  node 1.js &
+  468  code
+  469  cd ..
+  470  cd ..
+  471  cd..
+  472  cd ..
+  473  node 1.js
+  474  node 1.js
+  475  node 1.js &
+  476  ps
+  477  node 1.js &
+  478  ps ax
+  479  node 1.js 
+  480  node 1.js 
+  481  node 1.js &
+  482  ps ax
+  483  node 1.js &
+  484  node 1.js fg
+  485  node 1.js &
+  486  top
+  487  top
+  488  kill -9 936
+  489  kill -9 1000
+  490  ps -ax
+  491  ps
+  492  fg
+  493  kill all
+  494  kill all -9 'node 1.js'
+  495  killall -9 'node 1.js'
+  496  code
+  497  cd 
+  498  cd programación/proyecto1
+  499  git log
+  500  reset 1375c021f534b66144518125d2e5a55dee8707ec --soft
+  501  reset 1375c021f534b66144518125d2e5a55dee8707ec --hard
+  502  git reset 1375c021f534b66144518125d2e5a55dee8707ec --soft
+  503  git reset 1375c021f534b66144518125d2e5a55dee8707ec --hard
+  504  git log
+  505  history
+  506  history >> historial.txt | grep git hisotrial.txt
+  507  history >> historial.txt | grep git historial.txt
