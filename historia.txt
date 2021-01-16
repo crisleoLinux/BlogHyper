@@ -3,3 +3,5 @@ Bienvenido
 curso git de platzi
 
 mañana nos enfocaremos en su vida laboral
+
+Anita de platzi tiene 40 años y nacio en internet
