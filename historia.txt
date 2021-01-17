@@ -4,4 +4,6 @@ curso git de platzi
 
 mañana nos enfocaremos en su vida laboral
 
+Esta mamada es un proyecto open source.
+
 Anita de platzi tiene 40 años y nacio en internet
